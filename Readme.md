@@ -1,7 +1,7 @@
 ### Hi there, I'm Carson Lin 👋
 
 
-## I am currently a sophomore at [Marianas High School]
+## I am currently a sophomore at [Marianas High School](marianashighschool.com)
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
