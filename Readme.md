@@ -9,7 +9,7 @@
 - 🥅 2020 Goals: To master c++
 - ⚡ Fun fact: I do nothing all day everyday
 
-### Spotify Playing 🎧
+### Music Playing 🎧
 
 [<img src="https://i.ytimg.com/vi/6RW93an-qqw/maxresdefault.jpg" width="350" />](https://www.youtube.com/watch?v=TcFl0jQCJmg&list=RDMMTcFl0jQCJmg&start_radio=1)
 
@@ -42,9 +42,5 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
-<br />
 
----
 
-<!--END_SECTION:activity-->
