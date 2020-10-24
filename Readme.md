@@ -1,17 +1,17 @@
 ### Hi there, I'm Carson Lin 👋
 
 
-## I am currently a sophomore at [Marianas High School](marianashighschool.com)
+## I am currently a sophomore at [Marianas High School](https://marianashighschool.com)
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m just chilling 🤣
+- 👯 I'm looking for someone that is open-minded and is willing to contribute on projects
+- 🥅 2020 Goals: To master c++
+- ⚡ Fun fact: I do nothing all day everyday
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://www.youtube.com/watch?v=TcFl0jQCJmg&list=RDMMTcFl0jQCJmg&start_radio=1)
 
 ### Connect with me:
 
