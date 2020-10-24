@@ -3,7 +3,7 @@
 
 ## I am currently a sophomore at [Marianas High School](https://marianashighschool.com)
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I am currently working with my team on creating a "coding club" at our school.
 - 🌱 I’m just chilling 🤣
 - 👯 I'm looking for someone that is open-minded and is willing to contribute on projects
 - 🥅 2020 Goals: To master c++
@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://www.youtube.com/watch?v=TcFl0jQCJmg&list=RDMMTcFl0jQCJmg&start_radio=1)
+[<img src="https://www.youtube.com/watch?v=6RW93an-qqw" alt="Carson Best" width="350" />](https://www.youtube.com/watch?v=TcFl0jQCJmg&list=RDMMTcFl0jQCJmg&start_radio=1)
 
 ### Connect with me:
 
